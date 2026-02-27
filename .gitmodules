@@ -1,0 +1,6 @@
+[submodule "fp-yamcs-fprime-app"]
+	path = fp-yamcs-fprime-app
+	url = https://github.com/thomas-bc/fp-yamcs-fprime-app
+[submodule "fp-yamcs-yamcs-cfg"]
+	path = fp-yamcs-yamcs-cfg
+	url = https://github.com/thomas-bc/fp-yamcs-yamcs-cfg
